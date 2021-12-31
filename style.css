@@ -1,0 +1,27 @@
+body {  
+  background-size: hsl(360, 100%, 100%);
+  background-color: grey;
+  position: relative;
+  text-align: center;
+  padding-right: 150px;
+}
+
+h1 {
+  color: red;
+  position: relative;
+  text-align: center;
+  size: 500px;
+}
+
+h2 {
+  color: darkblue;
+}
+
+li {
+  text-align: left;
+  padding-left: 500px;
+}
+
+p {
+  color: darkblue;
+}
